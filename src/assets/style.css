@@ -1,0 +1,51 @@
+
+
+body{
+    background-color: blueviolet;
+    height: 100%;
+    z-index: -1;
+    
+}
+
+.navbari {
+    background-color: aqua;
+    position: fixed;
+    z-index: 1;
+    top: 0 !important;
+    overflow: hidden;
+    height: 70px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bolder;
+}
+.pfooter{
+    font-size: 30px;
+    font-weight: bold;
+}
+.pfooter1{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.maincard{
+    border: 1px solid lightblue;
+}
+.addbloginpt {
+    width: 300px !important;
+    height: 50px;
+    border: 1px solid antiquewhite;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+.addBlogBtn2 {
+    height: 42px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    font-weight: bolder;
+}
